@@ -2,39 +2,39 @@
   "players": [
     {
       "uuid": "017f5cdc-086b-4d98-a0c2-7dc43d5117bd",
-      "name": "AcoYT"
+      "username": "AcoYT"
     },
     {
       "uuid": "dd129c8b-d3c6-4553-92fe-8ba2f0d021c6",
-      "name": "Mythorical"
+      "username": "Mythorical"
     },
     {
       "uuid": "cf1a7ab0-a06c-4eaa-bc52-f19c01c764b6",
-      "name": "CoolShardDude"
+      "username": "CoolShardDude"
     },
     {
       "uuid": "1ac90c17-2ea5-4c84-b1c3-f1456b4185db",
-      "name": "dumb_genius"
+      "username": "dumb_genius"
     },
     {
       "uuid": "d5bb9b9f-d023-4c51-9f84-825b5d0ca88d",
-      "name": "Skycon77"
+      "username": "Skycon77"
     },
     {
       "uuid": "ba9c2526-bf12-4705-9051-5886e41aad0d",
-      "name": "The_Hero_Robot"
+      "username": "The_Hero_Robot"
     },
     {
       "uuid": "fcbf8158-2bfb-4181-b66c-47c651214da0",
-      "name": "YAGGl"
+      "username": "YAGGl"
     },
     {
       "uuid": "d5bb9b9f-d023-4c51-9f84-825b5d0ca88d",
-      "name": "4kio"
+      "username": "4kio"
     },
     {
       "uuid": "3019035d-6ca1-4f94-82ef-83eb3a6346b9",
-      "name": "Quayru"
+      "username": "Quayru"
     }
   ]
 }
