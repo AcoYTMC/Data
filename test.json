@@ -19,56 +19,112 @@
     ],
     "friends": [
         {
-            "uuid": "017f5cdc-086b-4d98-a0c2-7dc43d5117bd",
-            "username": "AcoYT"
-        },
-        {
-            "uuid": "dd129c8b-d3c6-4553-92fe-8ba2f0d021c6",
-            "username": "Mythorical"
-        },
-        {
-            "uuid": "cf1a7ab0-a06c-4eaa-bc52-f19c01c764b6",
-            "username": "CoolShardDude"
-        },
-        {
-            "uuid": "1ac90c17-2ea5-4c84-b1c3-f1456b4185db",
-            "username": "dumb_genius"
-        },
-        {
-            "uuid": "d5bb9b9f-d023-4c51-9f84-825b5d0ca88d",
-            "username": "Skycon77"
-        },
-        {
-            "uuid": "ba9c2526-bf12-4705-9051-5886e41aad0d",
-            "username": "The_Hero_Robot"
-        },
-        {
-            "uuid": "fcbf8158-2bfb-4181-b66c-47c651214da0",
-            "username": "YAGGl"
-        },
-        {
-            "uuid": "6035af5b-a74c-4838-8fab-e4c7a76e42d6",
-            "username": "4kio"
-        },
-        {
-            "uuid": "3019035d-6ca1-4f94-82ef-83eb3a6346b9",
-            "username": "Quayru"
-        },
-        {
-            "uuid": "f482ee8a-98b7-40a0-9cdc-f54982ccbf7a",
-            "username": "HARRRRRV"
+            "uuid": "de7ace70-93e1-4b4e-8f2f-146cb3fb505f",
+            "username": "SlimeTime4U"
         },
         {
             "uuid": "bc4f33a6-2e69-4b61-8c6d-aa23ce5d9892",
             "username": "TJ_Giggles"
         },
         {
+            "uuid": "728bbf22-6fe7-4b7f-8bd5-ed99aad8bfe8",
+            "username": "Mayonizer"
+        },
+        {
+            "uuid": "cf1a7ab0-a06c-4eaa-bc52-f19c01c764b6",
+            "username": "CoolShardDude"
+        },
+        {
+            "uuid": "6261016d-6058-4cc1-89a0-0ef836d0d22a",
+            "username": "Cheems_The_Dog"
+        },
+        {
+            "uuid": "a26e29f1-532e-4116-9112-ca18ea30d27f",
+            "username": "Chemthunder"
+        },
+        {
+            "uuid": "9da4f059-fb15-4b34-a2e5-54cfecf7c22e",
+            "username": "KrimsonCinder"
+        },
+        {
+            "uuid": "3fcd2fb1-416e-40e1-a84b-ee2b0b2441ee",
+            "username": "ForMono"
+        },
+        {
+            "uuid": "dd129c8b-d3c6-4553-92fe-8ba2f0d021c6",
+            "username": "Mythorical"
+        },
+        {
             "uuid": "cfe6d5df-fd5b-4eb9-9d0a-ce93dba915d4",
             "username": "SimoneFr"
         },
         {
-            "uuid": "728bbf22-6fe7-4b7f-8bd5-ed99aad8bfe8",
-            "username": "Mayonizer"
+            "uuid": "fcbf8158-2bfb-4181-b66c-47c651214da0",
+            "username": "YAGGl"
+        },
+        {
+            "uuid": "da1774d9-0822-4fb7-847e-f3a8a7a54411",
+            "username": "WhenLifeGivesYou"
+        },
+        {
+            "uuid": "5da9ead5-8bd5-4d1c-b1d9-df39fc930ff1",
+            "username": "Vbinnie"
+        },
+        {
+            "uuid": "1ac90c17-2ea5-4c84-b1c3-f1456b4185db",
+            "username": "dumb_genius"
+        },
+        {
+            "uuid": "6035af5b-a74c-4838-8fab-e4c7a76e42d6",
+            "username": "4kio"
+        },
+        {
+            "uuid": "7f9daaca-52a6-4df6-9379-896cef0bf457",
+            "username": "darlingrosii"
+        },
+        {
+            "uuid": "a2625733-af02-44be-a33a-8ae793d60613",
+            "username": "LOOPINGsss"
+        },
+        {
+            "uuid": "ba9c2526-bf12-4705-9051-5886e41aad0d",
+            "username": "The_Hero_Robot"
+        },
+        {
+            "uuid": "8b6c5865-a31a-44cc-9de0-a5fadab6bf54",
+            "username": "wfaffles"
+        },
+        {
+            "uuid": "d5bb9b9f-d023-4c51-9f84-825b5d0ca88d",
+            "username": "Skycon77"
+        },
+        {
+            "uuid": "3cac5af3-69b4-4e1a-8719-6c8087737bdb",
+            "username": "Ch0mps"
+        },
+        {
+            "uuid": "2548cedd-4d70-4c13-830e-303d6be03b93",
+            "username": "Nejireta"
+        },
+        {
+            "uuid": "f482ee8a-98b7-40a0-9cdc-f54982ccbf7a",
+            "username": "HARRRRRV"
+        },
+        {
+            "uuid": "e0704c4e-6662-4dd4-a097-991efe9abf54",
+            "username": "JustSouls1122"
+        },
+        {
+            "uuid": "017f5cdc-086b-4d98-a0c2-7dc43d5117bd",
+            "username": "AcoYT"
+        },
+        {
+            "uuid": "bfd7d2b5-fc2f-4029-af23-abacd384781b",
+            "username": "Masterwarrior_11"
+        },
+        {
+            "uuid": "3019035d-6ca1-4f94-82ef-83eb3a6346b9",
+            "username": "Quayru"
         }
     ]
 }
