@@ -131,10 +131,5 @@
             "username": "KKSmiler"
         }
     ],
-    "blacklisted": [
-        {
-            "uuid": "5e65b662-5be4-4bb4-9202-2cb574afa58f",
-            "username": "KattoMC"
-        }
-    ]
+    "blacklisted": []
 }
