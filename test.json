@@ -17,8 +17,8 @@
             "username": "LOOPINGsss"
         },
         {
-            "uuid": "8bac497c-daed-4392-a76a-cedf4d5a1496",
-            "username": "BouncingElf100"
+            "uuid": "4edb4cec-86c5-40e2-8d82-2eb82284b23f",
+            "username": "julestoast"
         }
     ],
     "friends": [
@@ -61,6 +61,10 @@
         {
             "uuid": "cfe6d5df-fd5b-4eb9-9d0a-ce93dba915d4",
             "username": "SimoneFr"
+        },
+        {
+            "uuid": "13209a97-cc23-42f9-a6b1-808d070126c5",
+            "username": "SimoneVeryFr"
         },
         {
             "uuid": "fcbf8158-2bfb-4181-b66c-47c651214da0",
@@ -133,6 +137,10 @@
         {
             "uuid": "26a3715d-c8a4-46dc-bd13-6e11ae1412c7",
             "username": "KKSmiler"
+        },
+        {
+            "uuid": "8bac497c-daed-4392-a76a-cedf4d5a1496",
+            "username": "BouncingElf100"
         }
     ],
     "blacklisted": []
